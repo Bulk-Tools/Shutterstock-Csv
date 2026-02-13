@@ -1,0 +1,5 @@
+{
+  "name": "StockMeta AI - Fast 1MP",
+  "description": "A client-side tool to generate Shutterstock metadata using your own Gemini API key. Features intelligent 1MP image compression for faster processing and reduced data usage.",
+  "requestFramePermissions": []
+}
